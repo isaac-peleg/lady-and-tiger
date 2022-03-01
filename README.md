@@ -1,2 +1,2 @@
 # lady-and-tiger
-Writing a limeric about lady and tiger
+Writing a limerick about lady and tiger
